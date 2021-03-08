@@ -47,6 +47,7 @@ export default function TodoInput(props) {
         buttonStyle={styles.todoBtn}
         title="New Todo"
         onPress={toggleOverlay}
+        testID="todo-button"
       />
       <Overlay
         fullScreen={true}
@@ -72,6 +73,7 @@ export default function TodoInput(props) {
             }}
             placeholder="Category"
             maxLength={25}
+            testID="input-category"
           />
           {inputValues.category === ''
             ? inputError('Category cant be empty')
@@ -82,6 +84,7 @@ export default function TodoInput(props) {
             onChangeText={(e) => {
               setInputValues({...inputValues, description: e});
             }}
+            testID="input-description"
           />
           {inputValues.description === ''
             ? inputError('Description cant be empty')
@@ -92,12 +95,14 @@ export default function TodoInput(props) {
           <DatePicker
             onDateChange={(d) => setInputValues({...inputValues, dueDate: d})}
             style={styles.dateStyle}
+            testID="input-duedate"
           />
 
           <Button
             buttonStyle={styles.addBtn}
             title="Add Todo"
             onPress={addNewTodo}
+            testID="input-submit-button"
           />
         </View>
       </Overlay>
