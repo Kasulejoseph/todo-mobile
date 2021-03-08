@@ -13,10 +13,13 @@ import TodoItem from '../componets/TodoItem';
 import fetchAPI from '../helpers/FetchApi';
 
 const AppScreen = () => {
-  useEffect(async () => {
-    const data = await fetchAPI('/todos');
-    setTodoItems(data.data);
-  }, [0]);
+  useEffect(() => {
+    const getData = async() => {
+    const resp = await fetchAPI('/todos');
+    setTodoItems(resp.data);
+    }
+    getData();
+  }, []);
 
   const [todoItems, setTodoItems] = useState([]);
 
