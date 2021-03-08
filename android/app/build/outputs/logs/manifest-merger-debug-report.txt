@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/5145bcfc84aa8d9a941ba479951fc958/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/3b7cf6ed6fa98c758e768467dfdc9a48/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-safe-area-context] /Users/kasule/Desktop/ossix/todo-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/kasule/Desktop/ossix/todo-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/kasule/.gradle/caches/transforms-2/files-2.1/f2a5ce8946425b3b0783790eb734c7f4/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/28764b7db4ed6f1dae7bc0b21f6c436b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/kasule/.gradle/caches/transforms-2/files-2.1/fde9080292da3c911ba2bf456440afd2/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/428a3ef6e6575175d16a197816e8214b/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/6f8f593a8b0adbdc7ba434847e1ee443/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/3848caed8cd5d76319d4830b7b1be7f4/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/d5922a1b732f415cf5c0ebc0de66e9bf/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/1eb6a4b1ef16ac518336c10ec597e339/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/143746786585f038b8991c0290f0bf36/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b9cfd2bdfee46a8e6ddb7c0b5441b704/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/66d51dd0926e88cc008187b0f1785516/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/becff2e1bae3988409f58779146a5a09/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/c83d569c8ea1d875391290879f5a9aff/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b6111ec0920331823dfe48be4fd51a2f/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/e54b9923efcb14d8b5e0a622f639a1bb/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2383c14d17949fd7454d4daf1ffe0174/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/84eeeb8b21d07bc58888005bd560a14d/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03f66d9272f80cb7e01b7a75e2f50ada/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/959101077b00212b5205a385b4410ded/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/415b911d2caa097449a9acd760f73d36/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/079808c21bfe1662af5ccf6015b9847b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/97ac7c8eaeaf4fdf2c596999cad8e0e1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/01fbdb6384ba7c850be0863ee097ba5b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/a8c37753d330141b453ad6641baf7fdb/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b698e3584d4e0087cd071bbb4761532f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/d13db22134bf90e6f4fdcdf195c19414/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03a5c1db5dd9782b3ca3e069451b489d/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/72fafad7d07069b93a41a9e31503b236/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b77e96417958af692f459b8adb5b682e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2af3a66c8d902ee950bb78fec6dcd2b5/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/8aeef9017e01379f4ebff2b9e699448f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/561e8afce7114df1a62c94f0083cf7ec/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/a5bac00c240c8bad27eb027a9fcb2295/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/ca9e3e721a7f1ae308c22725a82def4e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/92072d309ea038f9e8a2ee9089f55f2e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/69e51fa65b53f0a2083d1726444c9202/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/e71c9c106cb8f2d6365636a8392e53c9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/694fb4537bd48ed40f421c78ca9a9723/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/8581dedd92d086403249e6aff72ca64e/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/73756c611ffe5a10c0eda8de56577a87/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/kasule/.gradle/caches/transforms-2/files-2.1/f2a5ce8946425b3b0783790eb734c7f4/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/kasule/.gradle/caches/transforms-2/files-2.1/f2a5ce8946425b3b0783790eb734c7f4/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03f66d9272f80cb7e01b7a75e2f50ada/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03f66d9272f80cb7e01b7a75e2f50ada/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2af3a66c8d902ee950bb78fec6dcd2b5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2af3a66c8d902ee950bb78fec6dcd2b5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/561e8afce7114df1a62c94f0083cf7ec/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/561e8afce7114df1a62c94f0083cf7ec/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2af3a66c8d902ee950bb78fec6dcd2b5/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:13:9-69
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:13:9-69
+	android:usesCleartextTraffic
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.gettdone.MainActivity
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:14:7-24:18
+	android:label
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:17:9-86
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/5145bcfc84aa8d9a941ba479951fc958/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/5145bcfc84aa8d9a941ba479951fc958/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/3b7cf6ed6fa98c758e768467dfdc9a48/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/3b7cf6ed6fa98c758e768467dfdc9a48/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-safe-area-context] /Users/kasule/Desktop/ossix/todo-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/kasule/Desktop/ossix/todo-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/kasule/Desktop/ossix/todo-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/kasule/Desktop/ossix/todo-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/kasule/.gradle/caches/transforms-2/files-2.1/f2a5ce8946425b3b0783790eb734c7f4/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/kasule/.gradle/caches/transforms-2/files-2.1/f2a5ce8946425b3b0783790eb734c7f4/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/28764b7db4ed6f1dae7bc0b21f6c436b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/28764b7db4ed6f1dae7bc0b21f6c436b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/kasule/.gradle/caches/transforms-2/files-2.1/fde9080292da3c911ba2bf456440afd2/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kasule/.gradle/caches/transforms-2/files-2.1/fde9080292da3c911ba2bf456440afd2/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/428a3ef6e6575175d16a197816e8214b/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/428a3ef6e6575175d16a197816e8214b/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/6f8f593a8b0adbdc7ba434847e1ee443/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/6f8f593a8b0adbdc7ba434847e1ee443/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/3848caed8cd5d76319d4830b7b1be7f4/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/3848caed8cd5d76319d4830b7b1be7f4/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/d5922a1b732f415cf5c0ebc0de66e9bf/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/d5922a1b732f415cf5c0ebc0de66e9bf/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/1eb6a4b1ef16ac518336c10ec597e339/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/1eb6a4b1ef16ac518336c10ec597e339/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/143746786585f038b8991c0290f0bf36/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/143746786585f038b8991c0290f0bf36/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b9cfd2bdfee46a8e6ddb7c0b5441b704/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b9cfd2bdfee46a8e6ddb7c0b5441b704/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/66d51dd0926e88cc008187b0f1785516/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/66d51dd0926e88cc008187b0f1785516/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/becff2e1bae3988409f58779146a5a09/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/becff2e1bae3988409f58779146a5a09/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/c83d569c8ea1d875391290879f5a9aff/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/c83d569c8ea1d875391290879f5a9aff/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b6111ec0920331823dfe48be4fd51a2f/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b6111ec0920331823dfe48be4fd51a2f/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/e54b9923efcb14d8b5e0a622f639a1bb/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/e54b9923efcb14d8b5e0a622f639a1bb/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2383c14d17949fd7454d4daf1ffe0174/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2383c14d17949fd7454d4daf1ffe0174/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/84eeeb8b21d07bc58888005bd560a14d/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/84eeeb8b21d07bc58888005bd560a14d/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03f66d9272f80cb7e01b7a75e2f50ada/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03f66d9272f80cb7e01b7a75e2f50ada/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/959101077b00212b5205a385b4410ded/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/959101077b00212b5205a385b4410ded/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/415b911d2caa097449a9acd760f73d36/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/415b911d2caa097449a9acd760f73d36/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/079808c21bfe1662af5ccf6015b9847b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/079808c21bfe1662af5ccf6015b9847b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/97ac7c8eaeaf4fdf2c596999cad8e0e1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/97ac7c8eaeaf4fdf2c596999cad8e0e1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/01fbdb6384ba7c850be0863ee097ba5b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/01fbdb6384ba7c850be0863ee097ba5b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/a8c37753d330141b453ad6641baf7fdb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/a8c37753d330141b453ad6641baf7fdb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b698e3584d4e0087cd071bbb4761532f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b698e3584d4e0087cd071bbb4761532f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/d13db22134bf90e6f4fdcdf195c19414/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/d13db22134bf90e6f4fdcdf195c19414/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03a5c1db5dd9782b3ca3e069451b489d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/03a5c1db5dd9782b3ca3e069451b489d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/72fafad7d07069b93a41a9e31503b236/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/72fafad7d07069b93a41a9e31503b236/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b77e96417958af692f459b8adb5b682e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/b77e96417958af692f459b8adb5b682e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2af3a66c8d902ee950bb78fec6dcd2b5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/2af3a66c8d902ee950bb78fec6dcd2b5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/8aeef9017e01379f4ebff2b9e699448f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/8aeef9017e01379f4ebff2b9e699448f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/561e8afce7114df1a62c94f0083cf7ec/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/561e8afce7114df1a62c94f0083cf7ec/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/a5bac00c240c8bad27eb027a9fcb2295/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/a5bac00c240c8bad27eb027a9fcb2295/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/ca9e3e721a7f1ae308c22725a82def4e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/ca9e3e721a7f1ae308c22725a82def4e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/92072d309ea038f9e8a2ee9089f55f2e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/92072d309ea038f9e8a2ee9089f55f2e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/69e51fa65b53f0a2083d1726444c9202/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/69e51fa65b53f0a2083d1726444c9202/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/e71c9c106cb8f2d6365636a8392e53c9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/e71c9c106cb8f2d6365636a8392e53c9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/694fb4537bd48ed40f421c78ca9a9723/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/694fb4537bd48ed40f421c78ca9a9723/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/8581dedd92d086403249e6aff72ca64e/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/8581dedd92d086403249e6aff72ca64e/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/73756c611ffe5a10c0eda8de56577a87/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/73756c611ffe5a10c0eda8de56577a87/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kasule/Desktop/ossix/todo-mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/kasule/.gradle/caches/transforms-2/files-2.1/24684fd101c10ffd830ccbd6d2489cf5/flipper-0.54.0/AndroidManifest.xml:16:22-73

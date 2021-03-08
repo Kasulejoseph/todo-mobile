@@ -74,7 +74,7 @@ const AppScreen = () => {
     <>
       <SafeAreaView
         style={{padding: 16, justifyContent: 'space-between', flex: 1}}>
-        <Text style={{fontSize: 36, fontWeight: 'bold'}}>Todo</Text>
+        <Text style={{fontSize: 36, fontWeight: 'bold'}} testID="todo-title">Todo</Text>
         {todoItems.length === 0 ? (
           <Text style={{fontSize: 20, fontWeight: 'normal', marginTop: 23}}>
             You got an empty list buddy 😀
