@@ -1,0 +1,4 @@
+#Mon Mar 08 23:15:50 EAT 2021
+base.0=/Users/kasule/Desktop/ossix/todo-mobile/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
