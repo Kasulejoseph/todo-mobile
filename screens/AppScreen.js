@@ -47,7 +47,7 @@ const AppScreen = () => {
         setTodoItems(data.data);
       })
       .catch((err) => {
-        console.log('errr', err);
+        console.log('errr', err); 
         ToastAndroid.show('an error occured', ToastAndroid.SHORT);
       });
   };

@@ -1,15 +1,14 @@
-import React, {useState} from 'react';
+import React, { useState } from "react";
 import {
   TouchableOpacity,
   View,
   StyleSheet,
   Dimensions,
   Alert,
-} from 'react-native';
-import {Button, Overlay, Header, Input, Text} from 'react-native-elements';
-import DatePicker from 'react-native-datepicker';
-
-const {width, height} = Dimensions.get('screen');
+} from "react-native";
+import { Button, Overlay, Header, Input, Text } from "react-native-elements";
+import DatePicker from "react-native-datepicker";
+const { width, height } = Dimensions.get("screen");
 
 export default function TodoInput(props) {
   const [inputValues, setInputValues] = useState({});
@@ -25,11 +24,11 @@ export default function TodoInput(props) {
       inputValues.category === undefined ||
       inputValues.description === undefined ||
       inputValues.dueDate === undefined ||
-      inputValues.category === '' ||
-      inputValues.description === '' ||
-      inputValues.dueDate === ''
+      inputValues.category === "" ||
+      inputValues.description === "" ||
+      inputValues.dueDate === ""
     ) {
-      return Alert.alert('Please add todo details');
+      return Alert.alert("Please add todo details");
     }
     props.onPress(inputValues);
     setVisible(!visible);
@@ -52,48 +51,49 @@ export default function TodoInput(props) {
       <Overlay
         fullScreen={true}
         isVisible={visible}
-        onBackdropPress={toggleOverlay}>
+        onBackdropPress={toggleOverlay}
+      >
         <Header
           backgroundColor="white"
           placement="left"
           leftComponent={{
-            icon: 'close',
-            color: 'black',
+            icon: "close",
+            color: "black",
             left: -6,
             onPress: () => toggleOverlay(),
           }}
         />
-        <Text style={{fontSize: 36, fontWeight: 'bold', left: 13}}>
+        <Text style={{ fontSize: 36, fontWeight: "bold", left: 13 }}>
           New Todo
         </Text>
         <View style={styles.OverlayCtn}>
           <Input
             onChangeText={(e) => {
-              setInputValues({...inputValues, category: e});
+              setInputValues({ ...inputValues, category: e });
             }}
             placeholder="Category"
             maxLength={25}
             testID="input-category"
           />
-          {inputValues.category === ''
-            ? inputError('Category cant be empty')
+          {inputValues.category === ""
+            ? inputError("Category cant be empty")
             : null}
           <Input
             placeholder="Description"
             maxLength={30}
             onChangeText={(e) => {
-              setInputValues({...inputValues, description: e});
+              setInputValues({ ...inputValues, description: e });
             }}
             testID="input-description"
           />
-          {inputValues.description === ''
-            ? inputError('Description cant be empty')
+          {inputValues.description === ""
+            ? inputError("Description cant be empty")
             : null}
-          <Text style={{fontSize: 20, left: 10, marginBottom: 13}}>
+          <Text style={{ fontSize: 20, left: 10, marginBottom: 13 }}>
             Due Date
           </Text>
           <DatePicker
-            onDateChange={(d) => setInputValues({...inputValues, dueDate: d})}
+            onDateChange={(d) => setInputValues({ ...inputValues, dueDate: d })}
             style={styles.dateStyle}
             testID="input-duedate"
           />
@@ -111,10 +111,10 @@ export default function TodoInput(props) {
 }
 const styles = StyleSheet.create({
   todoBtn: {
-    backgroundColor: 'black',
+    backgroundColor: "black",
   },
   addBtn: {
-    backgroundColor: 'black',
+    backgroundColor: "black",
     width: width - 40,
     left: 10,
     marginTop: 21,
@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     left: 10,
   },
   error: {
-    color: 'red',
+    color: "red",
     fontSize: 15,
     left: 10,
     marginBottom: 12,

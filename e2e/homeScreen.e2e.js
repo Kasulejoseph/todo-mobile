@@ -15,9 +15,9 @@ describe('Home screen', () => {
     await expect(element(by.id('todo-list')).atIndex(0)).toBeVisible();
   });
 
-  // it('should tap the trash icon', async () => {
-  //   await element(by.id('trash-icon')).atIndex(0).tap();
-  // });
+  it('should tap the trash icon', async () => {
+    await element(by.id('trash-icon')).atIndex(0).tap();
+  });
 
   it('should tap the New Todo button', async () => {
     await element(by.id('todo-button')).tap();
